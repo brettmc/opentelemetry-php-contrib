@@ -30,3 +30,5 @@ To your project's `composer.json` file, as this utility has not reached a stable
 $ composer require open-telemetry/contrib-aws
 ```
 
+
+Verification edit.
