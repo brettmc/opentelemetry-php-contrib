@@ -304,3 +304,5 @@ composer install --working-dir=.github/ci
 .github/ci/vendor/bin/phpunit -c .github/ci/phpunit.xml.dist
 php .github/ci/matrix.php --check
 ```
+
+Verification edit.
