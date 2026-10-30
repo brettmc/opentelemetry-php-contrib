@@ -1,0 +1,4 @@
+{
+    "name": "open-telemetry/contrib-foo",
+    "require": {"php": "^8.1"}
+}
